@@ -2,7 +2,7 @@
 
 ✨ I’m interested in AI, Data Science, Forensic Computing.
 
-🌱 I’m currently learning Robotics at @smart-methods .
+🌱 I’m currently learning Robotics.
 
 💖 I’m looking to collaborate on hackathons and projects that match my interests!
 
